@@ -1,7 +1,4 @@
 
-# Chrome Web Store
-
-Web Activity Time Tracker is available via the official [Chrome Web Store](https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm).
 
 # Install as an extension from source
 
